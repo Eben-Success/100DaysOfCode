@@ -13,7 +13,7 @@ print(result)
 
 print(type(height))
 
-if result <= 18.6:
+if result <= 18.7:
     print("You are underweight.")
 
 elif result <= 24.9:
