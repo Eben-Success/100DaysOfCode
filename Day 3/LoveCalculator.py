@@ -28,6 +28,7 @@ print("Total is: " + str(love))
 love_score = str(true) + str(love)
 print("Your score is: " + love_score)
 
+love_score = int(love_score)
 if (love_score) < 10 or (love_score > 90):
     print(f"Your love score is {love_score}, you go together like coke and mentos")
 
