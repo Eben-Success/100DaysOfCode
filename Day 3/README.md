@@ -28,3 +28,9 @@ It tells users the interpretation of their BMI based on BMI value:
  * Over 225 but below 30 they are overweight.
  * Over 30 but below 35 they are obese.
  * Above 35 they are clinically obese.
+
+
+# TREASURE ISLAND
+
+The logic of the game is shown below:
+![img.png](img.png)
