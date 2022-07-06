@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="treasure added">
+      <change beforePath="$PROJECT_DIR$/Day 3/TreasureIsland.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/TreasureIsland.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BXvXTXckPJ6HW46Jk5tnmmyhjr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/EBEN-SUCCESS/PycharmProjects/100DaysOfCode_with_Python/Day 3/TreasureIsland.py",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.Python">
+    <configuration name="Day 3" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="100DaysOfCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 3" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Python" />
+      <item itemvalue="Python.Day 3" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="" />
+      <created>1657065285252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657065285252</updated>
+    </task>
+    <task id="LOCAL-00001" summary="trial">
+      <created>1657067200945</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657067200945</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Angela Yu's method">
+      <created>1657067276150</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657067276150</updated>
+    </task>
+    <task id="LOCAL-00003" summary="true">
+      <created>1657067463677</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657067463677</updated>
+    </task>
+    <task id="LOCAL-00004" summary="starting false">
+      <created>1657067480639</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657067480639</updated>
+    </task>
+    <task id="LOCAL-00005" summary="done with &quot;love&quot;">
+      <created>1657067522703</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657067522703</updated>
+    </task>
+    <task id="LOCAL-00006" summary="print love score">
+      <created>1657067633959</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657067633959</updated>
+    </task>
+    <task id="LOCAL-00007" summary="done with total">
+      <created>1657067758106</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1657067758106</updated>
+    </task>
+    <task id="LOCAL-00008" summary="done with the coding">
+      <created>1657067945928</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1657067945928</updated>
+    </task>
+    <task id="LOCAL-00009" summary="error fixed">
+      <created>1657068009715</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1657068009715</updated>
+    </task>
+    <task id="LOCAL-00010" summary="initial commit">
+      <created>1657100643575</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1657100643575</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update readme file">
+      <created>1657100880426</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1657100880426</updated>
+    </task>
+    <task id="LOCAL-00012" summary="bmi">
+      <created>1657100991435</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1657100991435</updated>
+    </task>
+    <task id="LOCAL-00013" summary="underweight">
+      <created>1657101069442</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1657101069442</updated>
+    </task>
+    <task id="LOCAL-00014" summary="bmi code complete; testing it">
+      <created>1657101250771</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1657101250771</updated>
+    </task>
+    <task id="LOCAL-00015" summary="readme update with treasure island">
+      <created>1657101603490</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1657101603490</updated>
+    </task>
+    <task id="LOCAL-00016" summary="a diagram showing logic">
+      <created>1657101630790</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1657101630790</updated>
+    </task>
+    <task id="LOCAL-00017" summary="initialize TreasureIsland">
+      <created>1657101862716</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1657101862716</updated>
+    </task>
+    <task id="LOCAL-00018" summary="treasure added">
+      <created>1657105009533</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1657105009533</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="trial" />
+    <MESSAGE value="Angela Yu's method" />
+    <MESSAGE value="true" />
+    <MESSAGE value="starting false" />
+    <MESSAGE value="done with &quot;love&quot;" />
+    <MESSAGE value="print love score" />
+    <MESSAGE value="done with total" />
+    <MESSAGE value="done with the coding" />
+    <MESSAGE value="error fixed" />
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="update readme file" />
+    <MESSAGE value="bmi" />
+    <MESSAGE value="underweight" />
+    <MESSAGE value="bmi code complete; testing it" />
+    <MESSAGE value="readme update with treasure island" />
+    <MESSAGE value="a diagram showing logic" />
+    <MESSAGE value="initialize TreasureIsland" />
+    <MESSAGE value="treasure added" />
+    <option name="LAST_COMMIT_MESSAGE" value="treasure added" />
+  </component>
+</project>
