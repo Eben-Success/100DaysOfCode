@@ -17,3 +17,7 @@ e = lowwer_case_string.count("e")
 true = t + r + u + e
 print("Total is: " + true)
 
+l = lowwer_case_string.count("l")
+o = lowwer_case_string.count("o")
+v = lowwer_case_string.count("v")
+e = lowwer_case_string.count("e")
