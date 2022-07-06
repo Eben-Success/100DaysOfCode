@@ -15,7 +15,7 @@ u = lowwer_case_string.count("u")
 e = lowwer_case_string.count("e")
 
 true = t + r + u + e
-print("Total is: " + true)
+print("Total is: " + str(true))
 
 l = lowwer_case_string.count("l")
 o = lowwer_case_string.count("o")
@@ -23,7 +23,7 @@ v = lowwer_case_string.count("v")
 e = lowwer_case_string.count("e")
 
 love = l+o+v+e
-print("Total is: " + love)
+print("Total is: " + str(love))
 
 love_score = str(true) + str(love)
 print("Your score is: " + love_score)
