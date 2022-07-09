@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="readme fill updated">
-      <change afterPath="$PROJECT_DIR$/Day 1 &amp; Day2/README.md" afterDir="false" />
+    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="initilize day 5">
+      <change afterPath="$PROJECT_DIR$/Day 5/Average Height.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 5/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BMI Calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1 &amp; Day2/BMI Calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic Math.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1 &amp; Day2/Basic Math.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Digits_of_two_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1 &amp; Day2/Digits_of_two_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Your Life In Weeks.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1 &amp; Day2/Your Life In Weeks.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,14 +29,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Ebenezer Acquah/PycharmProjects/100DaysOfCode_with_Python/Day 1 & Day2",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ebenezer Acquah/PycharmProjects/100DaysOfCode_with_Python/Day 1 &amp; Day2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Ebenezer Acquah\PycharmProjects\100DaysOfCode_with_Python\Day 1 &amp; Day2" />
@@ -329,7 +325,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657192064286</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="initilize day 5">
+      <created>1657383954597</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1657383954597</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -344,7 +347,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="trial" />
     <MESSAGE value="Angela Yu's method" />
     <MESSAGE value="true" />
     <MESSAGE value="starting false" />
@@ -369,6 +371,7 @@
     <MESSAGE value="added readme file for Day 3" />
     <MESSAGE value="added randomnumber.py to Day 4" />
     <MESSAGE value="readme fill updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="readme fill updated" />
+    <MESSAGE value="initilize day 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="initilize day 5" />
   </component>
 </project>
