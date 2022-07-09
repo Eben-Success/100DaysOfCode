@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="initilize day 5">
-      <change afterPath="$PROJECT_DIR$/Day 5/Average Height.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="5.1">
+      <change beforePath="$PROJECT_DIR$/Day 5/Average Height.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/Average Height.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +43,28 @@
       <recent name="C:\Users\Ebenezer Acquah\PycharmProjects\100DaysOfCode_with_Python\Day 1 &amp; Day2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.randomnumber">
+  <component name="RunManager" selected="Python.Average Height">
+    <configuration name="Average Height" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100DaysOfCode_with_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 5/Average Height.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Day 3" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="100DaysOfCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,10 +110,12 @@
     <list>
       <item itemvalue="Python.Python" />
       <item itemvalue="Python.Day 3" />
+      <item itemvalue="Python.Average Height" />
       <item itemvalue="Python.randomnumber" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Average Height" />
         <item itemvalue="Python.randomnumber" />
       </list>
     </recent_temporary>
@@ -332,7 +353,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657383954597</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="5.1">
+      <created>1657385484993</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1657385484993</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -347,7 +375,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Angela Yu's method" />
     <MESSAGE value="true" />
     <MESSAGE value="starting false" />
     <MESSAGE value="done with &quot;love&quot;" />
@@ -372,6 +399,7 @@
     <MESSAGE value="added randomnumber.py to Day 4" />
     <MESSAGE value="readme fill updated" />
     <MESSAGE value="initilize day 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="initilize day 5" />
+    <MESSAGE value="5.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="5.1" />
   </component>
 </project>
