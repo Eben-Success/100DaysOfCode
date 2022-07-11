@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="readme on project for day 5" />
+    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="readme on project for day 5">
+      <change beforePath="$PROJECT_DIR$/Day 5/PyPasswordGeneratorHardLevel.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/PyPasswordGeneratorHardLevel.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -172,34 +174,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657065285252</updated>
-    </task>
-    <task id="LOCAL-00006" summary="print love score">
-      <created>1657067633959</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1657067633959</updated>
-    </task>
-    <task id="LOCAL-00007" summary="done with total">
-      <created>1657067758106</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1657067758106</updated>
-    </task>
-    <task id="LOCAL-00008" summary="done with the coding">
-      <created>1657067945928</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1657067945928</updated>
-    </task>
-    <task id="LOCAL-00009" summary="error fixed">
-      <created>1657068009715</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1657068009715</updated>
     </task>
     <task id="LOCAL-00010" summary="initial commit">
       <created>1657100643575</created>
@@ -516,7 +490,35 @@
       <option name="project" value="LOCAL" />
       <updated>1657581642261</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="readme on project for day 5">
+      <created>1657583383156</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1657583383156</updated>
+    </task>
+    <task id="LOCAL-00056" summary="readme on project for day 5">
+      <created>1657583438523</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1657583438524</updated>
+    </task>
+    <task id="LOCAL-00057" summary="readme on project for day 5">
+      <created>1657583504121</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1657583504121</updated>
+    </task>
+    <task id="LOCAL-00058" summary="readme on project for day 5">
+      <created>1657583537419</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1657583537419</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
