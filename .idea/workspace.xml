@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="done with day 5.1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 5/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/README.md" afterDir="false" />
+    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="added PyPasswordGenerator.py">
+      <change beforePath="$PROJECT_DIR$/Day 5/PyPasswordGenerator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/PyPasswordGenerator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -368,7 +367,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657385921260</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="added PyPasswordGenerator.py">
+      <created>1657578901737</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1657578901737</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -383,7 +389,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="starting false" />
     <MESSAGE value="done with &quot;love&quot;" />
     <MESSAGE value="print love score" />
     <MESSAGE value="done with total" />
@@ -408,6 +413,7 @@
     <MESSAGE value="initilize day 5" />
     <MESSAGE value="5.1" />
     <MESSAGE value="done with day 5.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="done with day 5.1" />
+    <MESSAGE value="added PyPasswordGenerator.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="added PyPasswordGenerator.py" />
   </component>
 </project>
