@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="added PyPasswordGenerator.py">
+    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="numbers to pypassword">
       <change beforePath="$PROJECT_DIR$/Day 5/PyPasswordGenerator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/PyPasswordGenerator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -374,7 +374,42 @@
       <option name="project" value="LOCAL" />
       <updated>1657578901737</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="letters to PyPasswordGenerator.py">
+      <created>1657579244709</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1657579244709</updated>
+    </task>
+    <task id="LOCAL-00037" summary="numbers to pypassword">
+      <created>1657579276180</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1657579276180</updated>
+    </task>
+    <task id="LOCAL-00038" summary="numbers to pypassword">
+      <created>1657579286606</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1657579286606</updated>
+    </task>
+    <task id="LOCAL-00039" summary="numbers to pypassword">
+      <created>1657579301777</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1657579301777</updated>
+    </task>
+    <task id="LOCAL-00040" summary="numbers to pypassword">
+      <created>1657579309767</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1657579309767</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -389,8 +424,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="done with &quot;love&quot;" />
-    <MESSAGE value="print love score" />
     <MESSAGE value="done with total" />
     <MESSAGE value="done with the coding" />
     <MESSAGE value="error fixed" />
@@ -414,6 +447,8 @@
     <MESSAGE value="5.1" />
     <MESSAGE value="done with day 5.1" />
     <MESSAGE value="added PyPasswordGenerator.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="added PyPasswordGenerator.py" />
+    <MESSAGE value="letters to PyPasswordGenerator.py" />
+    <MESSAGE value="numbers to pypassword" />
+    <option name="LAST_COMMIT_MESSAGE" value="numbers to pypassword" />
   </component>
 </project>
