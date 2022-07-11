@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="readme on project for day 5">
-      <change beforePath="$PROJECT_DIR$/Day 5/PyPasswordGeneratorHardLevel.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/PyPasswordGeneratorHardLevel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,13 +151,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657065285252</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Angela Yu's method">
-      <created>1657067276150</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1657067276150</updated>
     </task>
     <task id="LOCAL-00003" summary="true">
       <created>1657067463677</created>
@@ -495,7 +488,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657580954569</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="readme on project for day 5">
+      <created>1657581390915</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1657581390915</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
