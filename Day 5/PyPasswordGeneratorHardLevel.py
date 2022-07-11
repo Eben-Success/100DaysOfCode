@@ -13,15 +13,15 @@ nr_symbols = int(input(f"How many symbols would you like?\n"))
 nr_numbers = int(input(f"How many numbers would you like?\n"))
 
 # Hard Level
-password = ""
+password_list = [ ]
 
 for char in range(1, nr_letters + 1):
-    password += random.choice(letters)
+    password_list += random.choice(letters)
 
 for char in range(1, nr_numbers + 1):
-    password + random.choice(numbers)
+    password_list + random.choice(numbers)
 
 for char in range(1, nr_symbols + 1):
-    password += random.choice(symbols)
+    password_list += random.choice(symbols)
 
-print(password)
+print(password_list)
