@@ -14,5 +14,7 @@ nr_numbers = int(input(f"How many numbers would you like?\n"))
 
 # Easy Level
 password = ""
-
+#nr_letters = 4
 for char in range(1, nr_letters + 1):
+    # 1 - 4
+    random.choice(letters)

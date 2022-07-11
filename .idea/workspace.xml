@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="numbers to pypassword">
+    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="password logic">
       <change beforePath="$PROJECT_DIR$/Day 5/PyPasswordGenerator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/PyPasswordGenerator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -409,7 +409,21 @@
       <option name="project" value="LOCAL" />
       <updated>1657579309767</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="numbers to pypassword">
+      <created>1657579624519</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1657579624519</updated>
+    </task>
+    <task id="LOCAL-00042" summary="password logic">
+      <created>1657579812894</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1657579812894</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -424,7 +438,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="done with total" />
     <MESSAGE value="done with the coding" />
     <MESSAGE value="error fixed" />
     <MESSAGE value="initial commit" />
@@ -449,6 +462,7 @@
     <MESSAGE value="added PyPasswordGenerator.py" />
     <MESSAGE value="letters to PyPasswordGenerator.py" />
     <MESSAGE value="numbers to pypassword" />
-    <option name="LAST_COMMIT_MESSAGE" value="numbers to pypassword" />
+    <MESSAGE value="password logic" />
+    <option name="LAST_COMMIT_MESSAGE" value="password logic" />
   </component>
 </project>
