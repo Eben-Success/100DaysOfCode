@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="PyPasswordGeneratorTrial">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="start Day 6" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -197,13 +195,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657065285252</updated>
-    </task>
-    <task id="LOCAL-00016" summary="a diagram showing logic">
-      <created>1657101630790</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1657101630790</updated>
     </task>
     <task id="LOCAL-00017" summary="initialize TreasureIsland">
       <created>1657101862716</created>
@@ -541,7 +532,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657584448418</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="start Day 6">
+      <created>1657627980264</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1657627980265</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -556,7 +554,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update readme file" />
     <MESSAGE value="bmi" />
     <MESSAGE value="underweight" />
     <MESSAGE value="bmi code complete; testing it" />
@@ -581,6 +578,7 @@
     <MESSAGE value="readme on project for day 5" />
     <MESSAGE value="done with PyPasswordGeneratorHardLevel.py" />
     <MESSAGE value="PyPasswordGeneratorTrial" />
-    <option name="LAST_COMMIT_MESSAGE" value="PyPasswordGeneratorTrial" />
+    <MESSAGE value="start Day 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="start Day 6" />
   </component>
 </project>
