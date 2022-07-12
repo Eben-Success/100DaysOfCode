@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="readme on project for day 5">
-      <change beforePath="$PROJECT_DIR$/Day 5/PyPasswordGeneratorHardLevel.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/PyPasswordGeneratorHardLevel.py" afterDir="false" />
+    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="PyPasswordGeneratorTrial">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
       <recent name="C:\Users\Ebenezer Acquah\PycharmProjects\100DaysOfCode_with_Python\Day 1 &amp; Day2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.PyPasswordGeneratorHardLevel">
+  <component name="RunManager" selected="Python.PyPasswordGeneratorTrial">
     <configuration name="Average Height" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfCode_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,6 +128,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="PyPasswordGeneratorTrial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100DaysOfCode_with_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 5/PyPasswordGeneratorTrial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="randomnumber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfCode_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -154,11 +175,13 @@
       <item itemvalue="Python.Day 3" />
       <item itemvalue="Python.PyPasswordGeneratorEasyLevel" />
       <item itemvalue="Python.PyPasswordGeneratorHardLevel" />
+      <item itemvalue="Python.PyPasswordGeneratorTrial" />
       <item itemvalue="Python.Average Height" />
       <item itemvalue="Python.randomnumber" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.PyPasswordGeneratorTrial" />
         <item itemvalue="Python.PyPasswordGeneratorHardLevel" />
         <item itemvalue="Python.PyPasswordGeneratorEasyLevel" />
         <item itemvalue="Python.Average Height" />
@@ -174,48 +197,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657065285252</updated>
-    </task>
-    <task id="LOCAL-00010" summary="initial commit">
-      <created>1657100643575</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1657100643575</updated>
-    </task>
-    <task id="LOCAL-00011" summary="update readme file">
-      <created>1657100880426</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1657100880426</updated>
-    </task>
-    <task id="LOCAL-00012" summary="bmi">
-      <created>1657100991435</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1657100991435</updated>
-    </task>
-    <task id="LOCAL-00013" summary="underweight">
-      <created>1657101069442</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1657101069442</updated>
-    </task>
-    <task id="LOCAL-00014" summary="bmi code complete; testing it">
-      <created>1657101250771</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1657101250771</updated>
-    </task>
-    <task id="LOCAL-00015" summary="readme update with treasure island">
-      <created>1657101603490</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1657101603490</updated>
     </task>
     <task id="LOCAL-00016" summary="a diagram showing logic">
       <created>1657101630790</created>
@@ -518,7 +499,49 @@
       <option name="project" value="LOCAL" />
       <updated>1657583537419</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="readme on project for day 5">
+      <created>1657583620204</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1657583620204</updated>
+    </task>
+    <task id="LOCAL-00060" summary="done with PyPasswordGeneratorHardLevel.py">
+      <created>1657583687294</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1657583687294</updated>
+    </task>
+    <task id="LOCAL-00061" summary="PyPasswordGeneratorTrial">
+      <created>1657583898270</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1657583898270</updated>
+    </task>
+    <task id="LOCAL-00062" summary="PyPasswordGeneratorTrial">
+      <created>1657584131634</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1657584131634</updated>
+    </task>
+    <task id="LOCAL-00063" summary="PyPasswordGeneratorTrial">
+      <created>1657584379800</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1657584379800</updated>
+    </task>
+    <task id="LOCAL-00064" summary="PyPasswordGeneratorTrial">
+      <created>1657584448418</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1657584448418</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -533,8 +556,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="error fixed" />
-    <MESSAGE value="initial commit" />
     <MESSAGE value="update readme file" />
     <MESSAGE value="bmi" />
     <MESSAGE value="underweight" />
@@ -558,6 +579,8 @@
     <MESSAGE value="numbers to pypassword" />
     <MESSAGE value="password logic" />
     <MESSAGE value="readme on project for day 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="readme on project for day 5" />
+    <MESSAGE value="done with PyPasswordGeneratorHardLevel.py" />
+    <MESSAGE value="PyPasswordGeneratorTrial" />
+    <option name="LAST_COMMIT_MESSAGE" value="PyPasswordGeneratorTrial" />
   </component>
 </project>
