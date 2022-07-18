@@ -10,5 +10,5 @@ for letter in chosen_word:
     if letter == guess:
         print("Right")
     else:
-        pirnt("Wrong")
+        print("Wrong")
 

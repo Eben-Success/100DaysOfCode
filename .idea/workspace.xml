@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="init day 7">
-      <change afterPath="$PROJECT_DIR$/Day 7/Hangman.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/100DaysOfCode_with_Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/100DaysOfCode_with_Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="update day 7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/Python.run.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Python.run.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 7/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 7/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 7/hangman.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 7/hangman.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,20 +212,8 @@
       <option name="presentableId" value="Default" />
       <updated>1657065285252</updated>
       <workItem from="1658109539574" duration="1713000" />
-    </task>
-    <task id="LOCAL-00019" summary="right &amp; left choice">
-      <created>1657105445910</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1657105445910</updated>
-    </task>
-    <task id="LOCAL-00020" summary="right &amp; left choice">
-      <created>1657105513623</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1657105513623</updated>
+      <workItem from="1658111355291" duration="230000" />
+      <workItem from="1658142302463" duration="559000" />
     </task>
     <task id="LOCAL-00021" summary="right &amp; left choice">
       <created>1657105546333</created>
@@ -562,7 +544,21 @@
       <option name="project" value="LOCAL" />
       <updated>1658109990640</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="update day 7">
+      <created>1658111488054</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1658111488054</updated>
+    </task>
+    <task id="LOCAL-00069" summary="update day 7">
+      <created>1658111546023</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1658111546023</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -580,7 +576,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="underweight" />
     <MESSAGE value="bmi code complete; testing it" />
     <MESSAGE value="readme update with treasure island" />
     <MESSAGE value="a diagram showing logic" />
@@ -605,6 +600,10 @@
     <MESSAGE value="PyPasswordGeneratorTrial" />
     <MESSAGE value="start Day 6" />
     <MESSAGE value="init day 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="init day 7" />
+    <MESSAGE value="update day 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="update day 7" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$hangman.coverage" NAME="hangman Coverage Results" MODIFIED="1658111560046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 7" />
   </component>
 </project>
