@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="update hangman.py">
+      <change afterPath="$PROJECT_DIR$/Day 7/logo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day 7/hangman.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 7/hangman.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 7/trial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 7/trial.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,21 +219,8 @@
       <workItem from="1658142302463" duration="1078000" />
       <workItem from="1658186409319" duration="791000" />
       <workItem from="1658194618750" duration="1267000" />
-      <workItem from="1658224991432" duration="2410000" />
-    </task>
-    <task id="LOCAL-00044" summary="password logic">
-      <created>1657579962890</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1657579962890</updated>
-    </task>
-    <task id="LOCAL-00045" summary="password logic">
-      <created>1657580290786</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1657580290786</updated>
+      <workItem from="1658224991432" duration="2524000" />
+      <workItem from="1658234572458" duration="784000" />
     </task>
     <task id="LOCAL-00046" summary="password logic">
       <created>1657580505359</created>
@@ -561,7 +551,21 @@
       <option name="project" value="LOCAL" />
       <updated>1658227398030</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="update hangman.py">
+      <created>1658227450114</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1658227450114</updated>
+    </task>
+    <task id="LOCAL-00094" summary="update hangman.py">
+      <created>1658227480967</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1658227480967</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
