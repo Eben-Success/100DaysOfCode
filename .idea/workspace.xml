@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="update hangman.py">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 7/hangman.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 7/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 7/hangman_kill.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 7/hangman_kill.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 7/word_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 7/word_list.py" afterDir="false" />
-    </list>
+    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="update hangman.py" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -220,14 +215,7 @@
       <workItem from="1658186409319" duration="791000" />
       <workItem from="1658194618750" duration="1267000" />
       <workItem from="1658224991432" duration="2524000" />
-      <workItem from="1658234572458" duration="14416000" />
-    </task>
-    <task id="LOCAL-00048" summary="readme on project for day 5">
-      <created>1657580877960</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1657580877960</updated>
+      <workItem from="1658234572458" duration="14846000" />
     </task>
     <task id="LOCAL-00049" summary="readme on project for day 5">
       <created>1657580934764</created>
@@ -565,7 +553,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658237425522</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="update hangman.py">
+      <created>1658253175702</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1658253175702</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

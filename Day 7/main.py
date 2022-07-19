@@ -1,6 +1,6 @@
 import random
 from logo import logo
-from word_list import
+
 
 word_list = ["realmadrid", "barcelona", "chelsea", "arsenal"]
 
