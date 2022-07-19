@@ -17,12 +17,15 @@ for _ in range(word_length):
     display += "_"
 print(display)
 
-# Request for a letter from user
-guess = input("\nGuess a number \n").lower()
+end_of_game = False
+while not end_of_game:
+    # Request for a letter from user
+    guess = input("\nGuess a number \n").lower()
 
-for position in range(word_length):
-    letter = chosen_word[position]
+    for position in range(word_length):
+        letter = chosen_word[position]
 
-    if letter == guess:
-        display[position] = letter
-print(display)
+        if letter == guess:
+            display[position] = letter
+    print(display)
+
