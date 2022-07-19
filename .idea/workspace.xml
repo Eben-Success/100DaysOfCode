@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="update hangman.py">
-      <change beforePath="$PROJECT_DIR$/Day 7/trial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 7/trial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +52,7 @@
       <recent name="C:\Users\Ebenezer Acquah\PycharmProjects\100DaysOfCode_with_Python\Day 1 &amp; Day2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.trial">
+  <component name="RunManager" selected="Python.hangman">
     <configuration type="PythonConfigurationType" factoryName="Python">
       <module name="100DaysOfCode_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -195,8 +195,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.trial" />
         <item itemvalue="Python.hangman" />
+        <item itemvalue="Python.trial" />
         <item itemvalue="Python.PyPasswordGeneratorTrial" />
         <item itemvalue="Python.PyPasswordGeneratorHardLevel" />
         <item itemvalue="Python.PyPasswordGeneratorEasyLevel" />
@@ -216,14 +216,7 @@
       <workItem from="1658142302463" duration="1078000" />
       <workItem from="1658186409319" duration="791000" />
       <workItem from="1658194618750" duration="1267000" />
-      <workItem from="1658224991432" duration="1361000" />
-    </task>
-    <task id="LOCAL-00041" summary="numbers to pypassword">
-      <created>1657579624519</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1657579624519</updated>
+      <workItem from="1658224991432" duration="1757000" />
     </task>
     <task id="LOCAL-00042" summary="password logic">
       <created>1657579812894</created>
@@ -561,7 +554,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658226237593</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="update hangman.py">
+      <created>1658226446284</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1658226446284</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -607,7 +607,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="update hangman.py" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$hangman.coverage" NAME="hangman Coverage Results" MODIFIED="1658225545215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 7" />
+    <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$hangman.coverage" NAME="hangman Coverage Results" MODIFIED="1658226429035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 7" />
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$trial.coverage" NAME="trial Coverage Results" MODIFIED="1658226321447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 7" />
   </component>
 </project>
