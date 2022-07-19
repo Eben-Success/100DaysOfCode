@@ -49,3 +49,7 @@ while not end_of_game:
     if "_" not in display:
         end_of_game = True
         print("You win")
+
+    # print the ASCII art from the 'stages' that corresponds to the current number of
+    # 'lives' the user has remaining
+    print(stages[lives])
