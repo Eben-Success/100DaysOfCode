@@ -11,6 +11,9 @@ print(f'\n Ops, the right word is {chosen_word} \n')
 
 word_length = len(chosen_word)
 
+# Creating a variable called 'lives' to keep track to the number lives left
+lives = 6
+
 # Display dashes equal to the random letter the user
 # has to guess
 
@@ -29,6 +32,9 @@ while not end_of_game:
 
         if letter == guess:
             display[position] = letter
+        else:
+            print("No match")
+
     print(display)
 
     if "_" not in display:
