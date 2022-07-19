@@ -220,14 +220,7 @@
       <workItem from="1658186409319" duration="791000" />
       <workItem from="1658194618750" duration="1267000" />
       <workItem from="1658224991432" duration="2524000" />
-      <workItem from="1658234572458" duration="1817000" />
-    </task>
-    <task id="LOCAL-00047" summary="password logic">
-      <created>1657580558825</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1657580558825</updated>
+      <workItem from="1658234572458" duration="14416000" />
     </task>
     <task id="LOCAL-00048" summary="readme on project for day 5">
       <created>1657580877960</created>
@@ -565,7 +558,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658235442840</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="update hangman.py">
+      <created>1658237425522</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1658237425522</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
