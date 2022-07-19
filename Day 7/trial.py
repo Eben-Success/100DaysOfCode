@@ -3,7 +3,7 @@ word_list = ["realmadrid", "barcelona", "chelsea", "arsenal"]
 
 chosen_word = random.choice(word_list)
 
-print(f'Ops, the right word is {chosen_word}')
+print(f'\n Ops, the right word is {chosen_word} \n')
 
 word_length = len(chosen_word)
 

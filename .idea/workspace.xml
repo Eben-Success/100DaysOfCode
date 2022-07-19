@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="update hangman.py">
-      <change beforePath="$PROJECT_DIR$/Day 7/hangman.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 7/hangman.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 7/trial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 7/trial.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +52,7 @@
       <recent name="C:\Users\Ebenezer Acquah\PycharmProjects\100DaysOfCode_with_Python\Day 1 &amp; Day2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.hangman">
+  <component name="RunManager" selected="Python.trial">
     <configuration type="PythonConfigurationType" factoryName="Python">
       <module name="100DaysOfCode_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,28 +70,6 @@
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Average Height" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100DaysOfCode_with_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 5/Average Height.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
@@ -185,21 +163,43 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="trial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100DaysOfCode_with_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 7/trial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.Python" />
+      <item itemvalue="Python.trial" />
       <item itemvalue="Python.hangman" />
       <item itemvalue="Python.PyPasswordGeneratorEasyLevel" />
       <item itemvalue="Python.PyPasswordGeneratorHardLevel" />
       <item itemvalue="Python.PyPasswordGeneratorTrial" />
-      <item itemvalue="Python.Average Height" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.trial" />
         <item itemvalue="Python.hangman" />
         <item itemvalue="Python.PyPasswordGeneratorTrial" />
         <item itemvalue="Python.PyPasswordGeneratorHardLevel" />
         <item itemvalue="Python.PyPasswordGeneratorEasyLevel" />
-        <item itemvalue="Python.Average Height" />
       </list>
     </recent_temporary>
   </component>
@@ -216,35 +216,7 @@
       <workItem from="1658142302463" duration="1078000" />
       <workItem from="1658186409319" duration="791000" />
       <workItem from="1658194618750" duration="1267000" />
-      <workItem from="1658224991432" duration="297000" />
-    </task>
-    <task id="LOCAL-00034" summary="done with day 5.1">
-      <created>1657385921260</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1657385921260</updated>
-    </task>
-    <task id="LOCAL-00035" summary="added PyPasswordGenerator.py">
-      <created>1657578901737</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1657578901737</updated>
-    </task>
-    <task id="LOCAL-00036" summary="letters to PyPasswordGenerator.py">
-      <created>1657579244709</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1657579244709</updated>
-    </task>
-    <task id="LOCAL-00037" summary="numbers to pypassword">
-      <created>1657579276180</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1657579276180</updated>
+      <workItem from="1658224991432" duration="920000" />
     </task>
     <task id="LOCAL-00038" summary="numbers to pypassword">
       <created>1657579286606</created>
@@ -561,7 +533,35 @@
       <option name="project" value="LOCAL" />
       <updated>1658225203937</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="update hangman.py">
+      <created>1658225342453</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1658225342453</updated>
+    </task>
+    <task id="LOCAL-00084" summary="update hangman.py">
+      <created>1658225521602</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1658225521602</updated>
+    </task>
+    <task id="LOCAL-00085" summary="update hangman.py">
+      <created>1658225649160</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1658225649160</updated>
+    </task>
+    <task id="LOCAL-00086" summary="update hangman.py">
+      <created>1658225904437</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1658225904437</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -607,6 +607,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="update hangman.py" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$hangman.coverage" NAME="hangman Coverage Results" MODIFIED="1658195709093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 7" />
+    <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$hangman.coverage" NAME="hangman Coverage Results" MODIFIED="1658225545215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 7" />
+    <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$trial.coverage" NAME="trial Coverage Results" MODIFIED="1658225917925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 7" />
   </component>
 </project>
