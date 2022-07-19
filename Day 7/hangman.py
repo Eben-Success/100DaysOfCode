@@ -11,11 +11,18 @@ for letter in chosen_word:
     display += "_"
 print(display)
 
+# Alternative approach
+
+len_chosen_word = len(chosen_word)
+
+for i in range(0, len_chosen_word + 1):
+    print()
+
 guess = input("Guess a letter: \n").lower()
 
-for letter in chosen_word:
-    if letter == guess:
-        print("Right")
-    else:
-        print("Wrong")
+# for letter in chosen_word:
+#     if letter == guess:
+#         print("Right")
+#     else:
+#         print("Wrong")
 
