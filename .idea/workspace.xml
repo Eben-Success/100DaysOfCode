@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="update day 7" />
+    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="update hangman.py">
+      <change beforePath="$PROJECT_DIR$/Day 7/hangman.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 7/hangman.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -214,20 +216,7 @@
       <workItem from="1658142302463" duration="1078000" />
       <workItem from="1658186409319" duration="791000" />
       <workItem from="1658194618750" duration="1267000" />
-    </task>
-    <task id="LOCAL-00032" summary="initilize day 5">
-      <created>1657383954597</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1657383954597</updated>
-    </task>
-    <task id="LOCAL-00033" summary="5.1">
-      <created>1657385484993</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1657385484993</updated>
+      <workItem from="1658224991432" duration="297000" />
     </task>
     <task id="LOCAL-00034" summary="done with day 5.1">
       <created>1657385921260</created>
@@ -558,7 +547,21 @@
       <option name="project" value="LOCAL" />
       <updated>1658195882254</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="update hangman.py">
+      <created>1658225054703</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1658225054708</updated>
+    </task>
+    <task id="LOCAL-00082" summary="update hangman.py">
+      <created>1658225203937</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1658225203937</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -576,7 +579,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="bmi code complete; testing it" />
     <MESSAGE value="readme update with treasure island" />
     <MESSAGE value="a diagram showing logic" />
     <MESSAGE value="initialize TreasureIsland" />
@@ -601,7 +603,8 @@
     <MESSAGE value="start Day 6" />
     <MESSAGE value="init day 7" />
     <MESSAGE value="update day 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="update day 7" />
+    <MESSAGE value="update hangman.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="update hangman.py" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$hangman.coverage" NAME="hangman Coverage Results" MODIFIED="1658195709093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 7" />
