@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="update day 7" />
+    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="update day 7">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 7/hangman.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 7/hangman.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -212,13 +215,8 @@
       <workItem from="1658109539574" duration="1713000" />
       <workItem from="1658111355291" duration="230000" />
       <workItem from="1658142302463" duration="1078000" />
-    </task>
-    <task id="LOCAL-00022" summary="choice3">
-      <created>1657105944803</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1657105944803</updated>
+      <workItem from="1658186409319" duration="791000" />
+      <workItem from="1658194618750" duration="554000" />
     </task>
     <task id="LOCAL-00023" summary="xml file">
       <created>1657105965311</created>
@@ -556,7 +554,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658143334040</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="update day 7">
+      <created>1658186602636</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1658186602636</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -602,6 +607,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="update day 7" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$hangman.coverage" NAME="hangman Coverage Results" MODIFIED="1658143327074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 7" />
+    <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$hangman.coverage" NAME="hangman Coverage Results" MODIFIED="1658195154945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 7" />
   </component>
 </project>
