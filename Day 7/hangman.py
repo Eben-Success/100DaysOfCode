@@ -19,5 +19,4 @@ for position in range(word_length):
     if letter == guess:
         display[position] = letter
 
-
 print(display)
