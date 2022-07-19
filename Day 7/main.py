@@ -35,7 +35,14 @@ while not end_of_game:
         else:
             print("No match")
 
-    print(display)
+    # If guesss if not a letter in the chosen_word, reduce 'live' by 1
+    # If lives goes down to 0 and then the game should stop and it should
+    # print "You Lose"
+
+
+
+    # Joining all the element in the list and converting themn into string
+    print(f"{' '.join(display)}")
 
     if "_" not in display:
         end_of_game = True
