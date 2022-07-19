@@ -18,11 +18,11 @@ for _ in range(word_length):
 print(display)
 
 # Request for a letter from user
-guess = input("Guess a number")
+guess = input("Guess a number").lower()
 
 for position in range(word_length):
     letter = chosen_word[position]
 
     if letter == guess:
-        display[letter] = letter
+        display[position] = letter
 print(display)
