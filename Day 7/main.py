@@ -1,5 +1,6 @@
 import random
 from logo import logo
+from skills_stages import stages
 
 
 word_list = ["realmadrid", "barcelona", "chelsea", "arsenal"]
