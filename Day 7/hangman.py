@@ -6,13 +6,6 @@ chosen_word = random.choice(word_list)
 
 print(f'Pssst, the solution is {chosen_word}')
 
-# display = []
-# for letter in chosen_word:
-#     display += "_"
-# print(display)
-
-# Alternative approach
-
 word_length = len(chosen_word)
 
 display = []
@@ -26,3 +19,5 @@ for position in range(word_length):
     if letter == guess:
         display[position] = letter
 
+
+print(display)
