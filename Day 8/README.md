@@ -4,5 +4,6 @@
 * Functions with Inputs
 * Arguments & Parameters
 
-### learn function by building a Caesar Cipher Program
-
+### PROJECTS IN DAY 8
+* Finding the number of cans needed to paint a house
+* Prime Number Checker
