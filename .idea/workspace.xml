@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="final commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 7/logo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 7/logo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 7/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 7/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="init Day 8" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -220,21 +216,7 @@
       <workItem from="1658194618750" duration="1267000" />
       <workItem from="1658224991432" duration="2524000" />
       <workItem from="1658234572458" duration="16128000" />
-      <workItem from="1658309054472" duration="1787000" />
-    </task>
-    <task id="LOCAL-00058" summary="readme on project for day 5">
-      <created>1657583537419</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1657583537419</updated>
-    </task>
-    <task id="LOCAL-00059" summary="readme on project for day 5">
-      <created>1657583620204</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1657583620204</updated>
+      <workItem from="1658309054472" duration="2120000" />
     </task>
     <task id="LOCAL-00060" summary="done with PyPasswordGeneratorHardLevel.py">
       <created>1657583687294</created>
@@ -565,7 +547,21 @@
       <option name="project" value="LOCAL" />
       <updated>1658310019418</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="final commit">
+      <created>1658311069432</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1658311069432</updated>
+    </task>
+    <task id="LOCAL-00108" summary="init Day 8">
+      <created>1658311324539</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1658311324539</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -583,7 +579,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="a diagram showing logic" />
     <MESSAGE value="initialize TreasureIsland" />
     <MESSAGE value="treasure added" />
     <MESSAGE value="right &amp; left choice" />
@@ -608,7 +603,8 @@
     <MESSAGE value="update day 7" />
     <MESSAGE value="update hangman.py" />
     <MESSAGE value="final commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="final commit" />
+    <MESSAGE value="init Day 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="init Day 8" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$hangman.coverage" NAME="hangman Coverage Results" MODIFIED="1658226429035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 7" />
