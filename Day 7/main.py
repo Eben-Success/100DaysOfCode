@@ -7,6 +7,7 @@ word_list = ["realmadrid", "barcelona", "chelsea", "arsenal"]
 
 chosen_word = random.choice(word_list)
 
+print(logo)
 # Test the code by checking the random number
 print(f'\n Ops, the right word is {chosen_word} \n')
 
@@ -30,6 +31,7 @@ while not end_of_game:
 
     for position in range(word_length):
         letter = chosen_word[position]
+        print(f"Current position: {position}\n Current letter: {letter}\n Guessed letter: {guess}")
 
         if letter == guess:
             display[position] = letter
