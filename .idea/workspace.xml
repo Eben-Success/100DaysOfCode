@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="init Day 8" />
+    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="init paint_calc.py" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -216,14 +216,7 @@
       <workItem from="1658194618750" duration="1267000" />
       <workItem from="1658224991432" duration="2524000" />
       <workItem from="1658234572458" duration="16128000" />
-      <workItem from="1658309054472" duration="2120000" />
-    </task>
-    <task id="LOCAL-00060" summary="done with PyPasswordGeneratorHardLevel.py">
-      <created>1657583687294</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1657583687294</updated>
+      <workItem from="1658309054472" duration="2463000" />
     </task>
     <task id="LOCAL-00061" summary="PyPasswordGeneratorTrial">
       <created>1657583898270</created>
@@ -561,7 +554,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658311324539</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="init paint_calc.py">
+      <created>1658311707925</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1658311707925</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -579,7 +579,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="initialize TreasureIsland" />
     <MESSAGE value="treasure added" />
     <MESSAGE value="right &amp; left choice" />
     <MESSAGE value="choice3" />
@@ -604,7 +603,8 @@
     <MESSAGE value="update hangman.py" />
     <MESSAGE value="final commit" />
     <MESSAGE value="init Day 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="init Day 8" />
+    <MESSAGE value="init paint_calc.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="init paint_calc.py" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$hangman.coverage" NAME="hangman Coverage Results" MODIFIED="1658226429035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 7" />
