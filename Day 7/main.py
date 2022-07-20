@@ -29,9 +29,12 @@ while not end_of_game:
     # Request for a letter from user
     guess = input("\nGuess a number \t").lower()
 
+    if guess in display:
+        print(f"You've already guessed  {guess}")
+
     for position in range(word_length):
         letter = chosen_word[position]
-        print(f"Current position: {position}\n Current letter: {letter}\n Guessed letter: {guess}")
+        # print(f"Current position: {position}\n Current letter: {letter}\n Guessed letter: {guess}")
 
         if letter == guess:
             display[position] = letter
@@ -41,6 +44,9 @@ while not end_of_game:
     # If lives goes down to 0 and then the game should stop and it should
     # print "You Lose"
     if guess not in chosen_word:
+
+        print(f"You guessed {guess} ,that's not in the word"
+              f"You lose a live")
         lives -= 1
     if lives == 0:
         end_of_game = True
