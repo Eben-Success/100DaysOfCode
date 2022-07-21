@@ -10,5 +10,3 @@ def prime_checker(number):
     else:
         print("It's not a prime number.")
 
-
-prime_checker(9)
