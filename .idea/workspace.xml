@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="revisit PyPassword Generator">
-      <change beforePath="$PROJECT_DIR$/Day 5/Trial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/Trial.py" afterDir="false" />
-    </list>
+    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="done revisiting pypassword generator" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -224,21 +222,7 @@
       <workItem from="1658444395638" duration="42000" />
       <workItem from="1658508322403" duration="607000" />
       <workItem from="1658744463601" duration="1746000" />
-      <workItem from="1658765220765" duration="1615000" />
-    </task>
-    <task id="LOCAL-00074" summary="update day 7">
-      <created>1658195258853</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1658195258853</updated>
-    </task>
-    <task id="LOCAL-00075" summary="update day 7">
-      <created>1658195428471</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1658195428471</updated>
+      <workItem from="1658765220765" duration="1929000" />
     </task>
     <task id="LOCAL-00076" summary="update day 7">
       <created>1658195631564</created>
@@ -569,7 +553,21 @@
       <option name="project" value="LOCAL" />
       <updated>1658776709083</updated>
     </task>
-    <option name="localTasksCounter" value="123" />
+    <task id="LOCAL-00123" summary="revisit PyPassword Generator">
+      <created>1658776922120</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1658776922120</updated>
+    </task>
+    <task id="LOCAL-00124" summary="done revisiting pypassword generator">
+      <created>1658777087524</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1658777087524</updated>
+    </task>
+    <option name="localTasksCounter" value="125" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -587,7 +585,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" else added" />
     <MESSAGE value="added readme file for Day 3" />
     <MESSAGE value="added randomnumber.py to Day 4" />
     <MESSAGE value="readme fill updated" />
@@ -612,7 +609,8 @@
     <MESSAGE value="init PrimeNumberChecker.py" />
     <MESSAGE value="done with PrimeNumberChecker.py" />
     <MESSAGE value="revisit PyPassword Generator" />
-    <option name="LAST_COMMIT_MESSAGE" value="revisit PyPassword Generator" />
+    <MESSAGE value="done revisiting pypassword generator" />
+    <option name="LAST_COMMIT_MESSAGE" value="done revisiting pypassword generator" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$hangman.coverage" NAME="hangman Coverage Results" MODIFIED="1658226429035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 7" />
@@ -620,7 +618,7 @@
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$trial.coverage" NAME="trial Coverage Results" MODIFIED="1658226321447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 7" />
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$PrimeNumberChecker.coverage" NAME="PrimeNumberChecker Coverage Results" MODIFIED="1658312917236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 8" />
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$word_list.coverage" NAME="word_list Coverage Results" MODIFIED="1658236064745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 7" />
-    <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$Trial.coverage" NAME="Trial Coverage Results" MODIFIED="1658776808747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 5" />
+    <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$Trial.coverage" NAME="Trial Coverage Results" MODIFIED="1658777058598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 5" />
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$paint_calc.coverage" NAME="paint_calc Coverage Results" MODIFIED="1658311935067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 8" />
   </component>
 </project>
