@@ -23,7 +23,7 @@ def decrypt(cipher_text, shift_amount):
         plain_text += alphabet[new_position]
     print(f"The decoded text is {plain_text}")
 
-def caesar(plain_text, shift_amount, cipher_text):
+def caesar(start_text, shift_amount, cipher_direction):
 
 
 
