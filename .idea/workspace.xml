@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="refactoring into caesar function">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day 8/caesar_cipher.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 8/caesar_cipher.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -225,21 +226,7 @@
       <workItem from="1658508322403" duration="607000" />
       <workItem from="1658744463601" duration="1746000" />
       <workItem from="1658765220765" duration="1929000" />
-      <workItem from="1658781259638" duration="3086000" />
-    </task>
-    <task id="LOCAL-00086" summary="update hangman.py">
-      <created>1658225904437</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1658225904437</updated>
-    </task>
-    <task id="LOCAL-00087" summary="update hangman.py">
-      <created>1658225944064</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1658225944064</updated>
+      <workItem from="1658781259638" duration="3750000" />
     </task>
     <task id="LOCAL-00088" summary="update hangman.py">
       <created>1658226003536</created>
@@ -570,7 +557,21 @@
       <option name="project" value="LOCAL" />
       <updated>1658784936725</updated>
     </task>
-    <option name="localTasksCounter" value="135" />
+    <task id="LOCAL-00135" summary="refactoring into caesar function">
+      <created>1658785236412</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1658785236412</updated>
+    </task>
+    <task id="LOCAL-00136" summary="refactoring into caesar function">
+      <created>1658785455823</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1658785455823</updated>
+    </task>
+    <option name="localTasksCounter" value="137" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -619,7 +620,7 @@
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$hangman.coverage" NAME="hangman Coverage Results" MODIFIED="1658226429035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 7" />
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1658311015276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 7" />
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$trial.coverage" NAME="trial Coverage Results" MODIFIED="1658226321447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 7" />
-    <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$caesar_cipher.coverage" NAME="caesar_cipher Coverage Results" MODIFIED="1658784752013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 8" />
+    <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$caesar_cipher.coverage" NAME="caesar_cipher Coverage Results" MODIFIED="1658785786163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 8" />
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$PrimeNumberChecker.coverage" NAME="PrimeNumberChecker Coverage Results" MODIFIED="1658781488930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 8" />
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$word_list.coverage" NAME="word_list Coverage Results" MODIFIED="1658236064745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 7" />
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$Trial.coverage" NAME="Trial Coverage Results" MODIFIED="1658777058598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 5" />
