@@ -24,6 +24,12 @@ def decrypt(cipher_text, shift_amount):
     print(f"The decoded text is {plain_text}")
 
 def caesar(start_text, shift_amount, cipher_direction):
+    end_text = ""
+    for letter in start_text:
+        position = alphabet.index(letter)
+
+        if cipher_direction == "decode":
+            new_position = position + shift_amount
 
 
 
