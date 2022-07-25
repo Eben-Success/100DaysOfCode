@@ -224,14 +224,7 @@
       <workItem from="1658444395638" duration="42000" />
       <workItem from="1658508322403" duration="607000" />
       <workItem from="1658744463601" duration="1746000" />
-      <workItem from="1658765220765" duration="956000" />
-    </task>
-    <task id="LOCAL-00071" summary="update day 7">
-      <created>1658186602636</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1658186602636</updated>
+      <workItem from="1658765220765" duration="1278000" />
     </task>
     <task id="LOCAL-00072" summary="update day 7">
       <created>1658195187292</created>
@@ -569,7 +562,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658776136231</updated>
     </task>
-    <option name="localTasksCounter" value="120" />
+    <task id="LOCAL-00120" summary="revisit PyPassword Generator">
+      <created>1658776319324</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1658776319325</updated>
+    </task>
+    <option name="localTasksCounter" value="121" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
