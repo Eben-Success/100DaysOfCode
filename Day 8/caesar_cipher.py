@@ -20,7 +20,8 @@ def decrypt(cipher_text, shift_amount):
     for letter in cipher_text:
         position = alphabet.index(letter)
         new_position = position - shift_amount
-    print(f"The decoded text is {cipher_text}")
+        plain_text += alphabet[new_position]
+    print(f"The decoded text is {plain_text}")
 
 
 if direction == "encode":
