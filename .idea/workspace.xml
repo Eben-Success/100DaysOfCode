@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="done with PrimeNumberChecker.py">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="revisit PyPassword Generator">
+      <change beforePath="$PROJECT_DIR$/Day 5/Trial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/Trial.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -224,28 +224,7 @@
       <workItem from="1658444395638" duration="42000" />
       <workItem from="1658508322403" duration="607000" />
       <workItem from="1658744463601" duration="1746000" />
-      <workItem from="1658765220765" duration="595000" />
-    </task>
-    <task id="LOCAL-00068" summary="update day 7">
-      <created>1658111488054</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1658111488054</updated>
-    </task>
-    <task id="LOCAL-00069" summary="update day 7">
-      <created>1658111546023</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1658111546023</updated>
-    </task>
-    <task id="LOCAL-00070" summary="update day 7">
-      <created>1658143334039</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1658143334040</updated>
+      <workItem from="1658765220765" duration="956000" />
     </task>
     <task id="LOCAL-00071" summary="update day 7">
       <created>1658186602636</created>
@@ -569,7 +548,28 @@
       <option name="project" value="LOCAL" />
       <updated>1658403270662</updated>
     </task>
-    <option name="localTasksCounter" value="117" />
+    <task id="LOCAL-00117" summary="revisit PyPassword Generator">
+      <created>1658775880979</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1658775880979</updated>
+    </task>
+    <task id="LOCAL-00118" summary="revisit PyPassword Generator">
+      <created>1658776106767</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1658776106767</updated>
+    </task>
+    <task id="LOCAL-00119" summary="revisit PyPassword Generator">
+      <created>1658776136231</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1658776136231</updated>
+    </task>
+    <option name="localTasksCounter" value="120" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -587,7 +587,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="xml file" />
     <MESSAGE value=" else added" />
     <MESSAGE value="added readme file for Day 3" />
     <MESSAGE value="added randomnumber.py to Day 4" />
@@ -612,7 +611,8 @@
     <MESSAGE value="done with paint_calc.py" />
     <MESSAGE value="init PrimeNumberChecker.py" />
     <MESSAGE value="done with PrimeNumberChecker.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="done with PrimeNumberChecker.py" />
+    <MESSAGE value="revisit PyPassword Generator" />
+    <option name="LAST_COMMIT_MESSAGE" value="revisit PyPassword Generator" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$hangman.coverage" NAME="hangman Coverage Results" MODIFIED="1658226429035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 7" />
