@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="refactoring into caesar function">
-      <change afterPath="$PROJECT_DIR$/Day 9/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 9/grading.py" afterDir="false" />
+    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="init grading dictionary">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 9/grading.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 9/grading.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +53,7 @@
       <recent name="C:\Users\Ebenezer Acquah\PycharmProjects\100DaysOfCode_with_Python\Day 1 &amp; Day2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.caesar_cipher">
+  <component name="RunManager" selected="Python.grading">
     <configuration type="PythonConfigurationType" factoryName="Python">
       <module name="100DaysOfCode_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -143,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="grading" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfCode_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,12 +150,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 9" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 7/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 9/grading.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,19 +188,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Python" />
+      <item itemvalue="Python.grading" />
       <item itemvalue="Python.caesar_cipher" />
       <item itemvalue="Python.Trial" />
       <item itemvalue="Python.PrimeNumberChecker" />
       <item itemvalue="Python.paint_calc" />
-      <item itemvalue="Python.main (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.grading" />
         <item itemvalue="Python.caesar_cipher" />
         <item itemvalue="Python.PrimeNumberChecker" />
         <item itemvalue="Python.Trial" />
         <item itemvalue="Python.paint_calc" />
-        <item itemvalue="Python.main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -229,21 +228,7 @@
       <workItem from="1658765220765" duration="1929000" />
       <workItem from="1658781259638" duration="4573000" />
       <workItem from="1658957986425" duration="79000" />
-      <workItem from="1658988011781" duration="720000" />
-    </task>
-    <task id="LOCAL-00092" summary="update hangman.py">
-      <created>1658227398030</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1658227398030</updated>
-    </task>
-    <task id="LOCAL-00093" summary="update hangman.py">
-      <created>1658227450114</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1658227450114</updated>
+      <workItem from="1658988011781" duration="1254000" />
     </task>
     <task id="LOCAL-00094" summary="update hangman.py">
       <created>1658227480967</created>
@@ -574,7 +559,21 @@
       <option name="project" value="LOCAL" />
       <updated>1658988027216</updated>
     </task>
-    <option name="localTasksCounter" value="141" />
+    <task id="LOCAL-00141" summary="init Day 9">
+      <created>1658988795687</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1658988795687</updated>
+    </task>
+    <task id="LOCAL-00142" summary="init grading dictionary">
+      <created>1658988832932</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1658988832932</updated>
+    </task>
+    <option name="localTasksCounter" value="143" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -592,8 +591,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="initilize day 5" />
-    <MESSAGE value="5.1" />
     <MESSAGE value="done with day 5.1" />
     <MESSAGE value="added PyPasswordGenerator.py" />
     <MESSAGE value="letters to PyPasswordGenerator.py" />
@@ -617,7 +614,9 @@
     <MESSAGE value="start caesar-cipher" />
     <MESSAGE value="caesar_cipher.py" />
     <MESSAGE value="refactoring into caesar function" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactoring into caesar function" />
+    <MESSAGE value="init Day 9" />
+    <MESSAGE value="init grading dictionary" />
+    <option name="LAST_COMMIT_MESSAGE" value="init grading dictionary" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$hangman.coverage" NAME="hangman Coverage Results" MODIFIED="1658226429035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 7" />
@@ -628,5 +627,6 @@
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$word_list.coverage" NAME="word_list Coverage Results" MODIFIED="1658236064745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 7" />
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$Trial.coverage" NAME="Trial Coverage Results" MODIFIED="1658777058598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 5" />
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$paint_calc.coverage" NAME="paint_calc Coverage Results" MODIFIED="1658311935067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 8" />
+    <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$grading.coverage" NAME="grading Coverage Results" MODIFIED="1658989266403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 9" />
   </component>
 </project>

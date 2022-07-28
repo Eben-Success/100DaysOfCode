@@ -8,10 +8,11 @@ student_scores = {
 # 🚨 Don't change the code above 👆
 
 # TODO-1: Create an empty dictionary called student_grades.
-
+student_grades = {}
 
 # TODO-2: Write your code below to add the grades to student_grades.👇
-
+for student in student_grades:
+    print(student)
 
 # 🚨 Don't change the code below 👇
-print(student_grades)
+# print(student_grades)
