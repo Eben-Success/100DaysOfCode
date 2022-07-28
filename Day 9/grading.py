@@ -1,3 +1,4 @@
+# This code doesn't execute as the one from the tutorials
 student_scores = {
     "Harry": 81,
     "Ron": 78,
