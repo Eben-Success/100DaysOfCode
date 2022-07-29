@@ -1,3 +1,4 @@
+# TODO Not working as expected
 
 def is_leap(year):
     if year % 4 == 0:
@@ -13,7 +14,10 @@ def is_leap(year):
 
 
 def days_in_month():
-    month_days = [31,28,31,30,31,31,31,30]
+    month_days = [31, 28, 31, 30, 31, 31, 31, 30]
+    if is_leap(year) and month == 2:
+        return 29
+    return month_days[month - 1]
 
 
 year = int(input("Enter a year:\n"))
