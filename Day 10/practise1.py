@@ -5,7 +5,7 @@ def format_name():
     l_name = input("Enter your last name:\n").title()
 
     if f_name == "" or l_name == "":
-        return
+        return "You didn't provide valid inputs"
     else:
         print(f"{f_name}  {l_name}")
 
