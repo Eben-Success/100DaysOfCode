@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment=" final project">
-      <change afterPath="$PROJECT_DIR$/Day 10/RADME.md" afterDir="false" />
+    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="init Day 10">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 10/practise1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 10/practise1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +53,7 @@
       <recent name="C:\Users\Ebenezer Acquah\PycharmProjects\100DaysOfCode_with_Python\Day 1 &amp; Day2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.final_project">
+  <component name="RunManager" selected="Python.practise1">
     <configuration type="PythonConfigurationType" factoryName="Python">
       <module name="100DaysOfCode_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,28 +120,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="grading" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100DaysOfCode_with_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 9" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 9/grading.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="nesting (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfCode_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,21 +164,43 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="practise1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100DaysOfCode_with_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 10/practise1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.Python" />
+      <item itemvalue="Python.practise1" />
       <item itemvalue="Python.challenge1" />
       <item itemvalue="Python.final_project" />
-      <item itemvalue="Python.grading" />
       <item itemvalue="Python.nesting" />
       <item itemvalue="Python.nesting (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.practise1" />
         <item itemvalue="Python.final_project" />
         <item itemvalue="Python.challenge1" />
         <item itemvalue="Python.nesting (1)" />
         <item itemvalue="Python.nesting" />
-        <item itemvalue="Python.grading" />
       </list>
     </recent_temporary>
   </component>
@@ -231,14 +230,7 @@
       <workItem from="1658957986425" duration="79000" />
       <workItem from="1658988011781" duration="9870000" />
       <workItem from="1659045219607" duration="30000" />
-      <workItem from="1659088572326" duration="1199000" />
-    </task>
-    <task id="LOCAL-00105" summary="final commit">
-      <created>1658309099657</created>
-      <option name="number" value="00105" />
-      <option name="presentableId" value="LOCAL-00105" />
-      <option name="project" value="LOCAL" />
-      <updated>1658309099657</updated>
+      <workItem from="1659088572326" duration="2404000" />
     </task>
     <task id="LOCAL-00106" summary="final commit">
       <created>1658310019418</created>
@@ -576,7 +568,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659088583796</updated>
     </task>
-    <option name="localTasksCounter" value="154" />
+    <task id="LOCAL-00154" summary="init Day 10">
+      <created>1659090214611</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1659090214611</updated>
+    </task>
+    <option name="localTasksCounter" value="155" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -594,7 +593,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="password logic" />
     <MESSAGE value="readme on project for day 5" />
     <MESSAGE value="done with PyPasswordGeneratorHardLevel.py" />
     <MESSAGE value="PyPasswordGeneratorTrial" />
@@ -619,7 +617,8 @@
     <MESSAGE value="init challenge1" />
     <MESSAGE value="init final project" />
     <MESSAGE value=" final project" />
-    <option name="LAST_COMMIT_MESSAGE" value=" final project" />
+    <MESSAGE value="init Day 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="init Day 10" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$final_project.coverage" NAME="final_project Coverage Results" MODIFIED="1659005110566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 9" />
@@ -629,10 +628,11 @@
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$challenge1.coverage" NAME="challenge1 Coverage Results" MODIFIED="1659000209656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 9" />
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$caesar_cipher.coverage" NAME="caesar_cipher Coverage Results" MODIFIED="1658786056909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 8" />
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$PrimeNumberChecker.coverage" NAME="PrimeNumberChecker Coverage Results" MODIFIED="1658781488930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 8" />
-    <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$nesting__1_.coverage" NAME="nesting (1) Coverage Results" MODIFIED="1658998863117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 9" />
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$word_list.coverage" NAME="word_list Coverage Results" MODIFIED="1658236064745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 7" />
+    <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$grading.coverage" NAME="grading Coverage Results" MODIFIED="1658998250471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 9" />
+    <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$practise1.coverage" NAME="practise1 Coverage Results" MODIFIED="1659090645705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 10" />
+    <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$nesting__1_.coverage" NAME="nesting (1) Coverage Results" MODIFIED="1658998863117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 9" />
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$Trial.coverage" NAME="Trial Coverage Results" MODIFIED="1658777058598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 5" />
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$paint_calc.coverage" NAME="paint_calc Coverage Results" MODIFIED="1658311935067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 8" />
-    <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$grading.coverage" NAME="grading Coverage Results" MODIFIED="1658998250471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 9" />
   </component>
 </project>
