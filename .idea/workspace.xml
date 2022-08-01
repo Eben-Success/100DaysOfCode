@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="init days_in_month.py">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="init calculator.py">
+      <change beforePath="$PROJECT_DIR$/Day 10/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 10/calculator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,20 +231,7 @@
       <workItem from="1659045219607" duration="30000" />
       <workItem from="1659088572326" duration="4746000" />
       <workItem from="1659169920290" duration="128000" />
-    </task>
-    <task id="LOCAL-00111" summary="done with paint_calc.py">
-      <created>1658311963762</created>
-      <option name="number" value="00111" />
-      <option name="presentableId" value="LOCAL-00111" />
-      <option name="project" value="LOCAL" />
-      <updated>1658311963762</updated>
-    </task>
-    <task id="LOCAL-00112" summary="init PrimeNumberChecker.py">
-      <created>1658312624567</created>
-      <option name="number" value="00112" />
-      <option name="presentableId" value="LOCAL-00112" />
-      <option name="project" value="LOCAL" />
-      <updated>1658312624567</updated>
+      <workItem from="1659312192988" duration="1097000" />
     </task>
     <task id="LOCAL-00113" summary="init PrimeNumberChecker.py">
       <created>1658312648338</created>
@@ -575,7 +562,21 @@
       <option name="project" value="LOCAL" />
       <updated>1659094573802</updated>
     </task>
-    <option name="localTasksCounter" value="160" />
+    <task id="LOCAL-00160" summary="init days_in_month.py">
+      <created>1659312244217</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1659312244218</updated>
+    </task>
+    <task id="LOCAL-00161" summary="init calculator.py">
+      <created>1659312356260</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1659312356260</updated>
+    </task>
+    <option name="localTasksCounter" value="162" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -593,7 +594,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="PyPasswordGeneratorTrial" />
     <MESSAGE value="start Day 6" />
     <MESSAGE value="init day 7" />
     <MESSAGE value="update day 7" />
@@ -618,7 +618,8 @@
     <MESSAGE value="init Day 10" />
     <MESSAGE value="done with format_name" />
     <MESSAGE value="init days_in_month.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="init days_in_month.py" />
+    <MESSAGE value="init calculator.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="init calculator.py" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$final_project.coverage" NAME="final_project Coverage Results" MODIFIED="1659005110566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 9" />
