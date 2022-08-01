@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="build calculator from scratch">
-      <change beforePath="$PROJECT_DIR$/Day 10/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 10/calculator.py" afterDir="false" />
-    </list>
+    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="done with calculator.py" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -231,14 +229,7 @@
       <workItem from="1659045219607" duration="30000" />
       <workItem from="1659088572326" duration="4746000" />
       <workItem from="1659169920290" duration="128000" />
-      <workItem from="1659312192988" duration="2151000" />
-    </task>
-    <task id="LOCAL-00117" summary="revisit PyPassword Generator">
-      <created>1658775880979</created>
-      <option name="number" value="00117" />
-      <option name="presentableId" value="LOCAL-00117" />
-      <option name="project" value="LOCAL" />
-      <updated>1658775880979</updated>
+      <workItem from="1659312192988" duration="2946000" />
     </task>
     <task id="LOCAL-00118" summary="revisit PyPassword Generator">
       <created>1658776106767</created>
@@ -576,7 +567,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659314822793</updated>
     </task>
-    <option name="localTasksCounter" value="166" />
+    <task id="LOCAL-00166" summary="done with calculator.py">
+      <created>1659315321178</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1659315321178</updated>
+    </task>
+    <option name="localTasksCounter" value="167" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -594,7 +592,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update day 7" />
     <MESSAGE value="update hangman.py" />
     <MESSAGE value="final commit" />
     <MESSAGE value="init Day 8" />
@@ -619,7 +616,8 @@
     <MESSAGE value="init calculator.py" />
     <MESSAGE value="def operations" />
     <MESSAGE value="build calculator from scratch" />
-    <option name="LAST_COMMIT_MESSAGE" value="build calculator from scratch" />
+    <MESSAGE value="done with calculator.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="done with calculator.py" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$final_project.coverage" NAME="final_project Coverage Results" MODIFIED="1659005110566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 9" />
@@ -632,7 +630,7 @@
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$word_list.coverage" NAME="word_list Coverage Results" MODIFIED="1658236064745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 7" />
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$grading.coverage" NAME="grading Coverage Results" MODIFIED="1658998250471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 9" />
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$practise1.coverage" NAME="practise1 Coverage Results" MODIFIED="1659091593793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 10" />
-    <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1659315109102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 10" />
+    <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1659315292782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 10" />
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$nesting__1_.coverage" NAME="nesting (1) Coverage Results" MODIFIED="1658998863117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 9" />
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$Trial.coverage" NAME="Trial Coverage Results" MODIFIED="1658777058598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 5" />
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$days_in_month.coverage" NAME="days_in_month Coverage Results" MODIFIED="1659094309939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 10" />
