@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="calculate 3 numbers">
-      <change afterPath="$PROJECT_DIR$/Day 10/calculator_refactored.py" afterDir="false" />
-    </list>
+    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="calculate 3 numbers" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -232,14 +230,7 @@
       <workItem from="1659088572326" duration="4746000" />
       <workItem from="1659169920290" duration="128000" />
       <workItem from="1659312192988" duration="2946000" />
-      <workItem from="1659355024705" duration="2763000" />
-    </task>
-    <task id="LOCAL-00121" summary="revisit PyPassword Generator">
-      <created>1658776640290</created>
-      <option name="number" value="00121" />
-      <option name="presentableId" value="LOCAL-00121" />
-      <option name="project" value="LOCAL" />
-      <updated>1658776640290</updated>
+      <workItem from="1659355024705" duration="3158000" />
     </task>
     <task id="LOCAL-00122" summary="revisit PyPassword Generator">
       <created>1658776709083</created>
@@ -577,7 +568,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659357710512</updated>
     </task>
-    <option name="localTasksCounter" value="170" />
+    <task id="LOCAL-00170" summary="calculate 3 numbers">
+      <created>1659358087066</created>
+      <option name="number" value="00170" />
+      <option name="presentableId" value="LOCAL-00170" />
+      <option name="project" value="LOCAL" />
+      <updated>1659358087066</updated>
+    </task>
+    <option name="localTasksCounter" value="171" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
