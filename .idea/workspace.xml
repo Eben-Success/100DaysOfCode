@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="calculate 3 numbers">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 10/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 10/calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 10/calculator_refactored.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,14 +232,7 @@
       <workItem from="1659088572326" duration="4746000" />
       <workItem from="1659169920290" duration="128000" />
       <workItem from="1659312192988" duration="2946000" />
-      <workItem from="1659355024705" duration="2454000" />
-    </task>
-    <task id="LOCAL-00120" summary="revisit PyPassword Generator">
-      <created>1658776319324</created>
-      <option name="number" value="00120" />
-      <option name="presentableId" value="LOCAL-00120" />
-      <option name="project" value="LOCAL" />
-      <updated>1658776319325</updated>
+      <workItem from="1659355024705" duration="2763000" />
     </task>
     <task id="LOCAL-00121" summary="revisit PyPassword Generator">
       <created>1658776640290</created>
@@ -578,7 +570,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659357499060</updated>
     </task>
-    <option name="localTasksCounter" value="169" />
+    <task id="LOCAL-00169" summary="calculate 3 numbers">
+      <created>1659357710512</created>
+      <option name="number" value="00169" />
+      <option name="presentableId" value="LOCAL-00169" />
+      <option name="project" value="LOCAL" />
+      <updated>1659357710512</updated>
+    </task>
+    <option name="localTasksCounter" value="170" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -634,7 +633,7 @@
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$word_list.coverage" NAME="word_list Coverage Results" MODIFIED="1658236064745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 7" />
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$grading.coverage" NAME="grading Coverage Results" MODIFIED="1658998250471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 9" />
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$practise1.coverage" NAME="practise1 Coverage Results" MODIFIED="1659091593793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 10" />
-    <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1659357459661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 10" />
+    <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1659357539291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 10" />
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$nesting__1_.coverage" NAME="nesting (1) Coverage Results" MODIFIED="1658998863117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 9" />
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$Trial.coverage" NAME="Trial Coverage Results" MODIFIED="1658777058598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 5" />
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$days_in_month.coverage" NAME="days_in_month Coverage Results" MODIFIED="1659094309939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 10" />
