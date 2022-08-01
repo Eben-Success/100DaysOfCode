@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="init days_in_month.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 10/days_in_month.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 10/days_in_month.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -230,14 +229,8 @@
       <workItem from="1658957986425" duration="79000" />
       <workItem from="1658988011781" duration="9870000" />
       <workItem from="1659045219607" duration="30000" />
-      <workItem from="1659088572326" duration="4594000" />
-    </task>
-    <task id="LOCAL-00110" summary="init paint_calc.py">
-      <created>1658311777935</created>
-      <option name="number" value="00110" />
-      <option name="presentableId" value="LOCAL-00110" />
-      <option name="project" value="LOCAL" />
-      <updated>1658311777935</updated>
+      <workItem from="1659088572326" duration="4746000" />
+      <workItem from="1659169920290" duration="128000" />
     </task>
     <task id="LOCAL-00111" summary="done with paint_calc.py">
       <created>1658311963762</created>
@@ -575,7 +568,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659093880474</updated>
     </task>
-    <option name="localTasksCounter" value="159" />
+    <task id="LOCAL-00159" summary="init days_in_month.py">
+      <created>1659094573802</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1659094573802</updated>
+    </task>
+    <option name="localTasksCounter" value="160" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
