@@ -28,3 +28,4 @@ operations = {
 }
 
 num1 = int(input("What's the first number?: \n"))
+num2 = int(input("What's the second number?: \n"))
