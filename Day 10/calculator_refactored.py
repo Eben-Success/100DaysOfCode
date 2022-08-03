@@ -29,7 +29,7 @@ operations = {
 
 
 def calculator():
-    num1 = int(input("What's the first number? \n"))
+    num1 = float(input("What's the first number? \n"))
     for symbol in operations:
         print(symbol)
 
@@ -37,7 +37,7 @@ def calculator():
 
     while should_continue:
         symbol = input("Pick an operations:\n")
-        num2 = int(input("What's the next number:\n"))
+        num2 = float(input("What's the next number:\n"))
         calculation_function = operations[symbol]
         answer = calculation_function(num1, num2)
         print(f"{num1} {symbol} {num2} = {answer}")
