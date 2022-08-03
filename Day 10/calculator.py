@@ -1,4 +1,8 @@
 # Creating a calculator from scratch
+from art import logo
+
+print(logo)
+
 
 # Add
 def add(n1, n2):
