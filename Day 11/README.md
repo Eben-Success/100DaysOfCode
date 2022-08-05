@@ -1,2 +1,2 @@
-## BlackJack Capstone Project
+## Blackjack Capstone Project
 
