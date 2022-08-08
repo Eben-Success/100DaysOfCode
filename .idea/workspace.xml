@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="init main.py">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 11/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 11/README.md" afterDir="false" />
+    <list default="true" id="e251e015-6487-4d83-b0de-30e5eaa8eb5e" name="Changes" comment="def deal_card">
       <change beforePath="$PROJECT_DIR$/Day 11/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 11/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -239,14 +237,7 @@
       <workItem from="1659522594264" duration="1405000" />
       <workItem from="1659657907376" duration="2712000" />
       <workItem from="1659961284232" duration="1115000" />
-      <workItem from="1659982554644" duration="933000" />
-    </task>
-    <task id="LOCAL-00134" summary="refactoring into caesar function">
-      <created>1658784936725</created>
-      <option name="number" value="00134" />
-      <option name="presentableId" value="LOCAL-00134" />
-      <option name="project" value="LOCAL" />
-      <updated>1658784936725</updated>
+      <workItem from="1659982554644" duration="1283000" />
     </task>
     <task id="LOCAL-00135" summary="refactoring into caesar function">
       <created>1658785236412</created>
@@ -584,7 +575,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659961311297</updated>
     </task>
-    <option name="localTasksCounter" value="183" />
+    <task id="LOCAL-00183" summary="def deal_card">
+      <created>1659983742854</created>
+      <option name="number" value="00183" />
+      <option name="presentableId" value="LOCAL-00183" />
+      <option name="project" value="LOCAL" />
+      <updated>1659983742854</updated>
+    </task>
+    <option name="localTasksCounter" value="184" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -602,7 +600,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="done with PrimeNumberChecker.py" />
     <MESSAGE value="revisit PyPassword Generator" />
     <MESSAGE value="done revisiting pypassword generator" />
     <MESSAGE value="start caesar-cipher" />
@@ -627,7 +624,8 @@
     <MESSAGE value="done" />
     <MESSAGE value="init Day 11" />
     <MESSAGE value="init main.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="init main.py" />
+    <MESSAGE value="def deal_card" />
+    <option name="LAST_COMMIT_MESSAGE" value="def deal_card" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/100DaysOfCode_with_Python$final_project.coverage" NAME="final_project Coverage Results" MODIFIED="1659005110566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 9" />

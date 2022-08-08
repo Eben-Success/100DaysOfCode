@@ -16,3 +16,13 @@ computer_cards = []
 for _ in range(2):
     new_card = deal_card()
     user_cards.append(new_card)
+    computer_cards.append(deal_card())
+
+
+def calculate_score(cards):
+    if sum(cards) == 21 and len(cards) == 2:
+        return 0
+
+    if 11 in cards and sum(cards) > 21:
+
+     return sum(cards)
