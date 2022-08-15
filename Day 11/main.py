@@ -17,6 +17,10 @@ for _ in range(2):
     new_card = deal_card()
     user_cards.append(new_card)
     computer_cards.append(deal_card())
+    
+user_score = calculate_score(user_cards)
+computer_score = calculate_score(computer_cards)
+
 
 
 def calculate_score(cards):
