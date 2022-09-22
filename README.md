@@ -11,4 +11,4 @@
 * Day 9: Finding the highest Bidder
 * Day 10: Function with Input
 * Day 11: Blackjack Capstone Projects
-* Day 12: 
+* Day 12: Scopes in Python
