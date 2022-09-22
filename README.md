@@ -9,4 +9,6 @@
 * Day 7: Hangman
 * Day 8: Caesar Cipher 
 * Day 9: Finding the highest Bidder
-* Day 10: 
+* Day 10: Function with Input
+* Day 11: Blackjack Capstone Projects
+* Day 12: 
